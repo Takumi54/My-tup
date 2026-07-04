@@ -1,0 +1,6 @@
+{
+  "name": "ماي تيوب my tup",
+  "description": "An immersive and organic multimedia platform featuring dynamic visual environments, interactive players, custom social bubbles, and AI-powered intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
